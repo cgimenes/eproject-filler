@@ -1,0 +1,21 @@
+[
+  {
+    "date": "2016-11-01",
+    "arrived": "09:52",
+    "first-int": "13:26",
+    "first-ret": "15:00",
+    "second-int": "18:37",
+    "second-ret": "20:32",
+    "left": "21:51",
+    "comments": ""
+  }, {
+    "date": "2016-11-02",
+    "arrived": "10:55",
+    "first-int": "13:40",
+    "first-ret": "14:40",
+    "second-int": "",
+    "second-ret": "",
+    "left": "20:20",
+    "comments": ""
+  }
+]
